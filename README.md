@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PSGS-blue?style=for-the-badge&logo=linkedin&link=URL_DO_SEU_LINKEDIN)](https://www.linkedin.com/in/paulo-souza-862a67292/)
 
-> [cite_start]**Contexto do Projeto:** Este repositório contém o desenvolvimento do projeto final da disciplina de Redes Automotivas (IF747) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE)[cite: 1, 3]. O projeto foi desenvolvido em Julho/Agosto de 2025.
+> **Contexto do Projeto:** Este repositório contém o desenvolvimento do projeto final da disciplina de Redes Automotivas (IF747) do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE). O projeto foi desenvolvido em Julho/Agosto de 2025.
 
 ---
 
