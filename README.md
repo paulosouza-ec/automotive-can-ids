@@ -10,9 +10,9 @@
 
 ## 📖 Sobre o Projeto
 
-[cite_start]O objetivo central deste projeto é **coletar datasets com dados maliciosos e benignos e propor, implementar e validar experimentalmente sistemas de detecção de intrusão baseados em Machine Learning para uma rede veicular CAN (Controller Area Network)**[cite: 54].
+O objetivo central deste projeto é **coletar datasets com dados maliciosos e benignos e propor, implementar e validar experimentalmente sistemas de detecção de intrusão baseados em Machine Learning para uma rede veicular CAN (Controller Area Network)**.
 
-A segurança em redes automotivas é uma área crítica, especialmente com o aumento da conectividade dos veículos. [cite_start]Este trabalho explora a implementação de um Sistema de Detecção de Intrusão (IDS) de baixo custo, utilizando uma Raspberry Pi, para monitorar o tráfego da rede CAN e identificar atividades maliciosas em tempo real, como as que ganharam notoriedade em reportagens sobre hacks em veículos[cite: 15, 18].
+A segurança em redes automotivas é uma área crítica, especialmente com o aumento da conectividade dos veículos. [cite_start]Este trabalho explora a implementação de um Sistema de Detecção de Intrusão (IDS) de baixo custo, utilizando uma Raspberry Pi, para monitorar o tráfego da rede CAN e identificar atividades maliciosas em tempo real, como as que ganharam notoriedade em reportagens sobre hacks em veículos.
 
 ---
 
