@@ -11,8 +11,7 @@ CAN_INTERFACE = 'can0'
 LOG_DURATION_SECONDS = 30
 
 # Nome do arquivo de saída.
-# É uma boa prática nomear o arquivo de acordo com o que foi capturado.
-# Por exemplo, 'log_dos_attack.csv' ou 'log_benign.csv'.
+#mudar aqui para cada tipo de ataque
 OUTPUT_FILENAME = 'log_dos_attack.csv'
 
 # --- Lógica do Logger ---
